@@ -3,7 +3,7 @@
 this repo is a clone of https://github.com/nelaturuk/education_pathways
 
 ## Activity 1
-![A1](images/activty1.png)
+![A1](images/activity1.png)
 
 ## Activity 2-4
 ![Home](images/HomeScreenshot.png)
